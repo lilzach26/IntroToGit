@@ -105,5 +105,8 @@ public class Card
       
       cardString = rankString + "of" + suitString;
       return cardString;
+      
+      //Add code
+      System.out.println("Test for changes");
    }
 }
